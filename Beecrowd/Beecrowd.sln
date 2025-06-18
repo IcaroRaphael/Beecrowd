@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1021", "Ex1021\Ex1021.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1035", "Ex1035\Ex1035.csproj", "{48AAE9B1-D8EF-4C99-847A-5B4270295E4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1036", "Ex1036\Ex1036.csproj", "{FC23EE39-DAC4-48A5-8CC4-E0C4604F4846}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -335,6 +337,18 @@ Global
 		{48AAE9B1-D8EF-4C99-847A-5B4270295E4D}.Release|x64.Build.0 = Release|Any CPU
 		{48AAE9B1-D8EF-4C99-847A-5B4270295E4D}.Release|x86.ActiveCfg = Release|Any CPU
 		{48AAE9B1-D8EF-4C99-847A-5B4270295E4D}.Release|x86.Build.0 = Release|Any CPU
+		{FC23EE39-DAC4-48A5-8CC4-E0C4604F4846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC23EE39-DAC4-48A5-8CC4-E0C4604F4846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC23EE39-DAC4-48A5-8CC4-E0C4604F4846}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FC23EE39-DAC4-48A5-8CC4-E0C4604F4846}.Debug|x64.Build.0 = Debug|Any CPU
+		{FC23EE39-DAC4-48A5-8CC4-E0C4604F4846}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FC23EE39-DAC4-48A5-8CC4-E0C4604F4846}.Debug|x86.Build.0 = Debug|Any CPU
+		{FC23EE39-DAC4-48A5-8CC4-E0C4604F4846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC23EE39-DAC4-48A5-8CC4-E0C4604F4846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC23EE39-DAC4-48A5-8CC4-E0C4604F4846}.Release|x64.ActiveCfg = Release|Any CPU
+		{FC23EE39-DAC4-48A5-8CC4-E0C4604F4846}.Release|x64.Build.0 = Release|Any CPU
+		{FC23EE39-DAC4-48A5-8CC4-E0C4604F4846}.Release|x86.ActiveCfg = Release|Any CPU
+		{FC23EE39-DAC4-48A5-8CC4-E0C4604F4846}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
