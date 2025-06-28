@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1042", "Ex1042\Ex1042.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1043", "Ex1043\Ex1043.csproj", "{40CDFAAE-B2F7-4154-93FD-1C2905F3A49A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1044", "Ex1044\Ex1044.csproj", "{9A7D43AB-31DC-4DDD-9974-BFBDC9510AAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -433,6 +435,18 @@ Global
 		{40CDFAAE-B2F7-4154-93FD-1C2905F3A49A}.Release|x64.Build.0 = Release|Any CPU
 		{40CDFAAE-B2F7-4154-93FD-1C2905F3A49A}.Release|x86.ActiveCfg = Release|Any CPU
 		{40CDFAAE-B2F7-4154-93FD-1C2905F3A49A}.Release|x86.Build.0 = Release|Any CPU
+		{9A7D43AB-31DC-4DDD-9974-BFBDC9510AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A7D43AB-31DC-4DDD-9974-BFBDC9510AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A7D43AB-31DC-4DDD-9974-BFBDC9510AAD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9A7D43AB-31DC-4DDD-9974-BFBDC9510AAD}.Debug|x64.Build.0 = Debug|Any CPU
+		{9A7D43AB-31DC-4DDD-9974-BFBDC9510AAD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9A7D43AB-31DC-4DDD-9974-BFBDC9510AAD}.Debug|x86.Build.0 = Debug|Any CPU
+		{9A7D43AB-31DC-4DDD-9974-BFBDC9510AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A7D43AB-31DC-4DDD-9974-BFBDC9510AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A7D43AB-31DC-4DDD-9974-BFBDC9510AAD}.Release|x64.ActiveCfg = Release|Any CPU
+		{9A7D43AB-31DC-4DDD-9974-BFBDC9510AAD}.Release|x64.Build.0 = Release|Any CPU
+		{9A7D43AB-31DC-4DDD-9974-BFBDC9510AAD}.Release|x86.ActiveCfg = Release|Any CPU
+		{9A7D43AB-31DC-4DDD-9974-BFBDC9510AAD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
