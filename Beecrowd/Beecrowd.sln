@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1044", "Ex1044\Ex1044.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1045", "Ex1045\Ex1045.csproj", "{65CA142D-A3E2-4F8A-A700-5DBB6AB8ED02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1046", "Ex1046\Ex1046.csproj", "{BD69A9CA-2FA6-45EF-BF7A-E195A4373B13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -461,6 +463,18 @@ Global
 		{65CA142D-A3E2-4F8A-A700-5DBB6AB8ED02}.Release|x64.Build.0 = Release|Any CPU
 		{65CA142D-A3E2-4F8A-A700-5DBB6AB8ED02}.Release|x86.ActiveCfg = Release|Any CPU
 		{65CA142D-A3E2-4F8A-A700-5DBB6AB8ED02}.Release|x86.Build.0 = Release|Any CPU
+		{BD69A9CA-2FA6-45EF-BF7A-E195A4373B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD69A9CA-2FA6-45EF-BF7A-E195A4373B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD69A9CA-2FA6-45EF-BF7A-E195A4373B13}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BD69A9CA-2FA6-45EF-BF7A-E195A4373B13}.Debug|x64.Build.0 = Debug|Any CPU
+		{BD69A9CA-2FA6-45EF-BF7A-E195A4373B13}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BD69A9CA-2FA6-45EF-BF7A-E195A4373B13}.Debug|x86.Build.0 = Debug|Any CPU
+		{BD69A9CA-2FA6-45EF-BF7A-E195A4373B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD69A9CA-2FA6-45EF-BF7A-E195A4373B13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD69A9CA-2FA6-45EF-BF7A-E195A4373B13}.Release|x64.ActiveCfg = Release|Any CPU
+		{BD69A9CA-2FA6-45EF-BF7A-E195A4373B13}.Release|x64.Build.0 = Release|Any CPU
+		{BD69A9CA-2FA6-45EF-BF7A-E195A4373B13}.Release|x86.ActiveCfg = Release|Any CPU
+		{BD69A9CA-2FA6-45EF-BF7A-E195A4373B13}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
